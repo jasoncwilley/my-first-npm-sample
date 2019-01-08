@@ -1,0 +1,23 @@
+
+{
+  "name": "my-first-npm-sample",
+  "version": "1.0.0",
+  "description": "A madlib like game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "jasoncwilley",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncwilley/my-first-npm-sample.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "bugs": {
+    "url": "https://github.com/jasoncwilley/my-first-npm-sample/issues"
+  },
+  "homepage": "https://github.com/jasoncwilley/my-first-npm-sample#readme"
+}
